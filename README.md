@@ -123,13 +123,6 @@ All five CSV files are included in the repository. You can clone the repo and us
 
 ---
 
-## 📬 Contact
 
-For inquiries or collaboration opportunities, please reach out via:
-
-**Email**: [your.email@example.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-
----
 
 > ⭐ *If you find this repository useful, please give it a star to show your support!*
